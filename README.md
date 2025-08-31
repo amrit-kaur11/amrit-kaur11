@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi👋, I'm Amrit Kaur
 
-<!--
-**amrit-kaur11/amrit-kaur11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Data Science & Machine Learning Enthusiast | Python | AI | Problem Solver
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, SQL, R
+- **ML / AI:** Scikit-learn, TensorFlow, PyTorch
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **Others:** Git, GitHub, Docker, Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects 
+- [**Reinforcement Learning Algorithms Implementation**]
+- Implemented **Deep Q-Network (DQN)**, **Policy Gradient (REINFORCE)**, and
+- **Actor-Critic (A2C)** from scratch.
+- Designed neural networks with **replay buffers, target networks, and ε-greedy exploration**.
+- Evaluated performance using **convergence curves and 1000+ episode rewards**.  
+  **Tools:** PyTorch, OpenAI Gym  
+
+
+
+## 📫 How to reach me: ...
+- Email: o24028@cce.iitmandi.ac.in
+- LinkedIn: www.linkedin.com/in/amrit-kaur-a31b50251
+
+## ⚡ Fun fact:
+I love solving data challenges, learning new AI techniques, and contributing to open-source projects!
