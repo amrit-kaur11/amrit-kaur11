@@ -21,7 +21,7 @@ Data Science & Machine Learning Enthusiast | Python | AI | Problem Solver
 
 
 ## 📫 How to reach me: ...
-- Email: o24028@cce.iitmandi.ac.in
+- Email: amrit70851124@gmail.com
 - LinkedIn: www.linkedin.com/in/amrit-kaur-a31b50251
 
 ## ⚡ Fun fact:
