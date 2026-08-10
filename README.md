@@ -34,37 +34,42 @@ my skills through real-world projects.
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgresql,vscode" />
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
+
 <p align="center">
-
-🤖 Machine Learning &nbsp; • &nbsp;
-🧠 NLP &nbsp; • &nbsp;
-🔎 RAG &nbsp; • &nbsp;
-🗂️ Vector Search &nbsp; • &nbsp;
-✨ Generative AI
-
+  🤖 Machine Learning &nbsp;•&nbsp;
+  🧠 NLP &nbsp;•&nbsp;
+  🔎 RAG &nbsp;•&nbsp;
+  📁 Vector Search &nbsp;•&nbsp;
+  ✨ Generative AI
 </p>
 
-### Backend
-- FastAPI
-- REST APIs
+### ⚙️ Backend
 
-### Tools
-- Git & GitHub
-- Docker
-- Render
-- Vercel
-- Streamlit
-- Gradio
-- VS Code
+<p align="center">
+  ⚡ FastAPI &nbsp;•&nbsp;
+  🔗 REST APIs
+</p>
 
-### Core Skills
-- Data Structures & Algorithms
-- Problem Solving
-- Analytical Thinking
-- Communication
-- Leadership
-- Adaptability
+### 🧰 Tools
+
+<p align="center">
+  🐙 Git & GitHub &nbsp;•&nbsp;
+  🐳 Docker &nbsp;•&nbsp;
+  🚀 Render &nbsp;•&nbsp;
+  ▲ Vercel &nbsp;•&nbsp;
+  🎨 Streamlit &nbsp;•&nbsp;
+  🤗 Gradio &nbsp;•&nbsp;
+  💻 VS Code
+</p>
+
+### 🧠 Core Skills
+
+<p align="center">
+  <code>Data Structures & Algorithms</code> •
+  <code>Problem Solving</code> •
+  <code>Analytical Thinking</code>
+</p>
 
 ---
 
