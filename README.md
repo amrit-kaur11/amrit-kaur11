@@ -267,7 +267,10 @@ I'm currently focused on strengthening my skills in:
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amrit-kaur11/amrit-kaur11/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/amrit-kaur11/amrit-kaur11/gh-pages/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
