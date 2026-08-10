@@ -193,14 +193,28 @@ my skills through real-world projects.
 
 # 🎓 Education
 
-### Minor Degree – AI & ML in Data Science
-**IIT Mandi × Masai School**  
-2024 – 2025
+---
 
-### Bachelor of Science in Mathematics
-**PT. Manish Sharma Degree College**  
-2024 – 2027
+## 🤖 Minor Degree — AI & ML in Data Science
 
+<p align="center">
+  <strong>🎓 IIT Mandi × Masai School &nbsp; • &nbsp; 📅 2024 – 2025</strong>
+</p>
+
+- 🧠 Completed a Minor Degree in AI & ML in Data Science.
+- 🚀 Built hands-on experience through practical AI/ML projects and problem-solving.
+
+---
+
+## 📐 Bachelor of Science — Mathematics
+
+<p align="center">
+  <strong>🎓 PT. Manish Sharma Degree College &nbsp; • &nbsp; 📅 2024 – 2027</strong>
+</p>
+
+- 📚 Currently pursuing a Bachelor's degree in Mathematics.
+- 🧮 Developing a strong foundation in mathematical and analytical problem-solving.
+  
 ---
 
 # 📜 Certifications
