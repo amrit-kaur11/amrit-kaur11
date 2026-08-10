@@ -217,7 +217,7 @@ my skills through real-world projects.
 
 🎓 **IIT Mandi × Masai School** &nbsp; • &nbsp; ✅ **Completed**
 
-## 🚀 Elevate – Industry Readiness Externship
+## 🐍 Python Development Extern
 
 🏢 **Masai School** &nbsp; • &nbsp; ✅ **Completed**
 
