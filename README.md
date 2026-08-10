@@ -255,13 +255,12 @@ my skills through real-world projects.
 </p>
 
 ---
----
 
-## ⚡ Currently
+### ⚡ Currently
 
 I'm currently focused on strengthening my skills in:
 
-**Python → Data Structures & Algorithms → Machine Learning → NLP → RAG → Generative AI → Backend Development**
+**Python → DSA → Machine Learning → NLP → RAG → Generative AI → Backend Development**
 
 ---
 
