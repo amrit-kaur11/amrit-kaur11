@@ -174,15 +174,20 @@ my skills through real-world projects.
 
 # 💼 Experience
 
-## Python Development Extern – Masai School
+---
 
-**Bengaluru, India | February 2026**
+## 🐍 Python Development Extern — Masai School
 
-- Worked on industry-aligned problem statements and structured project execution.
-- Applied Python, Data Structures & Algorithms, and problem-solving concepts to
-  real-world coding challenges.
-- Followed professional software development practices and structured workflows.
-- Worked in an in-office environment with professional development practices.
+<p align="center">
+  <strong>📍 Bengaluru, India &nbsp; • &nbsp; 📅 February 2026</strong>
+</p>
+
+### ✨ What I Worked On
+
+- 🧩 Worked on industry-aligned problem statements and structured project execution.
+- 🐍 Applied Python, Data Structures & Algorithms, and problem-solving concepts to real-world coding challenges.
+- 🔧 Followed professional software development practices and structured workflows.
+- 🤝 Worked in an in-office environment while following professional development practices.
 
 ---
 
