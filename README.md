@@ -213,8 +213,13 @@ my skills through real-world projects.
 
 # 📜 Certifications
 
-- Minor Degree in AI & ML – IIT Mandi
-- Python Development Extern – Masai School
+## 🤖 Minor Degree in AI & ML
+
+🎓 **IIT Mandi × Masai School** &nbsp; • &nbsp; ✅ **Completed**
+
+## 🐍 Python Development Externship
+
+🏢 **Masai School** &nbsp; • &nbsp; 🔄 **Ongoing**
 
 ---
 
