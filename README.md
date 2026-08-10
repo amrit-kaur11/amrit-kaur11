@@ -12,8 +12,8 @@ my skills through real-world projects.
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. in Mathematics
 - 🤖 Minor Degree in AI & ML in Data Science from IIT Mandi × Masai School
+- 🎓 B.Sc. in Mathematics
 - 🐍 Strong foundation in Python and problem solving
 - 🧠 Interested in Machine Learning, NLP, Generative AI and RAG
 - ⚙️ Experience building backend applications using FastAPI and REST APIs
@@ -121,13 +121,13 @@ my skills through real-world projects.
 
 # 🎓 Education
 
-### Bachelor of Science in Mathematics
-**PT. Manish Sharma Degree College**  
-2024 – 2027
-
 ### Minor Degree – AI & ML in Data Science
 **IIT Mandi × Masai School**  
 2024 – 2025
+
+### Bachelor of Science in Mathematics
+**PT. Manish Sharma Degree College**  
+2024 – 2027
 
 ---
 
