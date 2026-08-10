@@ -73,49 +73,102 @@ my skills through real-world projects.
 
 ---
 
-# 📂 Projects
-
-## 🧘 Ask Me Anything About Yoga – RAG Application
-
-**Tech Stack:** Python, FastAPI, Sentence Transformers, ChromaDB, LLMs, Render, Vercel
-
-- Built a domain-specific Retrieval-Augmented Generation (RAG) application that answers
-  yoga-related queries using curated knowledge sources.
-- Developed an end-to-end pipeline for document ingestion, embedding generation,
-  semantic search, and LLM-based response generation.
-- Implemented retrieval-grounded generation to improve response accuracy and reduce
-  unsupported responses.
-- Used Sentence Transformers for embedding generation and ChromaDB for vector storage
-  and semantic retrieval.
-- Deployed the FastAPI backend on Render and the frontend on Vercel.
+# 📂 Featured Projects
 
 ---
 
-## 🧮 Multimodal Math Mentor – Agentic AI System
+## 🧘 Ask Me Anything About Yoga — RAG Application
 
-**Tech Stack:** Python, FastAPI, LLMs, Agent Architecture, Vector Database
+<p align="center">
+  <strong>Retrieval-Augmented Generation • Semantic Search • LLMs</strong>
+</p>
 
-- Developed a multimodal AI tutor capable of solving mathematical problems from both
-  text and image inputs.
-- Designed a multi-agent architecture with modular components for problem understanding,
-  reasoning, computation, and explanation.
-- Integrated memory and external tools to improve reasoning accuracy and reuse previous
-  solutions.
-- Built a scalable backend using FastAPI with LLM integration.
+### 🛠️ Tech Stack
+
+<p align="center">
+  <code>Python</code> •
+  <code>FastAPI</code> •
+  <code>Sentence Transformers</code> •
+  <code>ChromaDB</code> •
+  <code>LLMs</code> •
+  <code>Render</code> •
+  <code>Vercel</code>
+</p>
+
+### ✨ Highlights
+
+- 🧠 Built a domain-specific RAG application that answers yoga-related queries using curated knowledge sources.
+- 🔎 Developed an end-to-end pipeline for document ingestion, embedding generation, semantic search, and LLM-based response generation.
+- 🚀 Deployed the FastAPI backend on Render and the frontend on Vercel.
+
+<p align="center">
+  <a href="YOUR_YOGA_REPO_URL">
+    <img src="https://img.shields.io/badge/📂%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="YOUR_YOGA_LIVE_URL">
+    <img src="https://img.shields.io/badge/🚀%20Live-Demo-00C7B7?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 💬 Domain-Specific Sentiment Analysis with Low-Resource NLP
+## 🧮 Multimodal Math Mentor — Agentic AI System
 
-**Tech Stack:** Python, Scikit-learn, Hugging Face Transformers, Streamlit, Gradio
+<p align="center">
+  <strong>Multimodal AI • Multi-Agent Architecture • Memory • Tool Integration</strong>
+</p>
 
-- Built a 4-class sentiment analysis system using Reddit breakup stories.
-- Created a custom dataset for a low-resource NLP classification task.
-- Compared classical Machine Learning approaches including TF-IDF, Logistic Regression,
-  and SVM with transformer-based models such as BERT and DistilBERT.
-- Applied data augmentation techniques to address limited training data.
-- Evaluated models using cross-validation and standard classification metrics.
-- Built an interactive demo with interpretability features using Streamlit/Gradio.
+### 🛠️ Tech Stack
+
+<p align="center">
+  <code>Python</code> •
+  <code>FastAPI</code> •
+  <code>LLMs</code> •
+  <code>Agent Architecture</code> •
+  <code>Vector Database</code>
+</p>
+
+### ✨ Highlights
+
+- 🖼️ Developed a multimodal AI tutor capable of solving mathematical problems from both text and image inputs.
+- 🤖 Designed a multi-agent architecture with memory, tool integration, and modular orchestration.
+- ⚡ Built a scalable FastAPI backend with LLM integration to improve reasoning accuracy and reuse previous solutions.
+
+<p align="center">
+  <a href="YOUR_MATH_MENTOR_REPO_URL">
+    <img src="https://img.shields.io/badge/📂%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 💬 Domain-Specific Sentiment Analysis — Low-Resource NLP
+
+<p align="center">
+  <strong>Natural Language Processing • Classical ML • Transformers • Data Augmentation</strong>
+</p>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <code>Python</code> •
+  <code>Scikit-learn</code> •
+  <code>Hugging Face Transformers</code> •
+  <code>Streamlit</code> •
+  <code>Gradio</code>
+</p>
+
+### ✨ Highlights
+
+- 💬 Built a 4-class sentiment analysis system using Reddit breakup stories and created a custom dataset for a low-resource NLP task.
+- 📊 Compared classical ML models including TF-IDF, Logistic Regression, and SVM with transformer models such as BERT and DistilBERT.
+- 🧪 Applied data augmentation and evaluated models using cross-validation, with an interactive demo featuring interpretability.
+
+<p align="center">
+  <a href="YOUR_SENTIMENT_REPO_URL">
+    <img src="https://img.shields.io/badge/📂%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
