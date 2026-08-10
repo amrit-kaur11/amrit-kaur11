@@ -28,11 +28,19 @@ my skills through real-world projects.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Programming
-- Python
-- SQL
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgresql,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+
+</p>
 
 ### AI / Machine Learning
 - Machine Learning
