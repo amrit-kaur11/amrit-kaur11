@@ -31,24 +31,19 @@ my skills through real-world projects.
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgresql,vscode" />
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgresql,vscode" />
 </p>
 
 ### AI / Machine Learning
-- Machine Learning
-- NLP
-- Retrieval-Augmented Generation (RAG)
-- Vector Search
-- Semantic Search
-- LLM Applications
+<p align="center">
+
+🤖 Machine Learning &nbsp; • &nbsp;
+🧠 NLP &nbsp; • &nbsp;
+🔎 RAG &nbsp; • &nbsp;
+🗂️ Vector Search &nbsp; • &nbsp;
+✨ Generative AI
+
+</p>
 
 ### Backend
 - FastAPI
