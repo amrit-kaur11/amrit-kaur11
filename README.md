@@ -102,10 +102,10 @@ my skills through real-world projects.
 - 🚀 Deployed the FastAPI backend on Render and the frontend on Vercel.
 
 <p align="center">
-  <a href="YOUR_YOGA_REPO_URL">
+  <a href="https://github.com/amrit-kaur11/ask-me-anything-about-yoga.git">
     <img src="https://img.shields.io/badge/📂%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_YOGA_LIVE_URL">
+  <a href="https://ask-me-anything-about-yoga-ai.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Live-Demo-00C7B7?style=for-the-badge" />
   </a>
 </p>
@@ -135,7 +135,7 @@ my skills through real-world projects.
 - ⚡ Built a scalable FastAPI backend with LLM integration to improve reasoning accuracy and reuse previous solutions.
 
 <p align="center">
-  <a href="YOUR_MATH_MENTOR_REPO_URL">
+  <a href="https://github.com/amrit-kaur11/Math-Mentor-App.git">
     <img src="https://img.shields.io/badge/📂%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -165,7 +165,7 @@ my skills through real-world projects.
 - 🧪 Applied data augmentation and evaluated models using cross-validation, with an interactive demo featuring interpretability.
 
 <p align="center">
-  <a href="YOUR_SENTIMENT_REPO_URL">
+  <a href="https://github.com/amrit-kaur11/project-breakup-sentiment.git">
     <img src="https://img.shields.io/badge/📂%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
