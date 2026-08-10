@@ -260,7 +260,7 @@ my skills through real-world projects.
 
 I'm currently focused on strengthening my skills in:
 
-**Python → DSA → Machine Learning → NLP → RAG → Generative AI → Backend Development**
+**Python • DSA • Machine Learning • NLP • RAG • Generative AI • Backend Development**
 
 ---
 
